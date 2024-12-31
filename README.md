@@ -103,3 +103,11 @@ CREATE TABLE return_status
 );
 
 ```
+
+## Reports
+
+- **Database Schema**: Detailed table structures and relationships.
+- **Data Analysis**: Insights into book categories, employee salaries, member registration trends, and issued books.
+- **Summary Reports**: Aggregated data on high-demand books and employee performance.
+
+
