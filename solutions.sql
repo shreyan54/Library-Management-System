@@ -41,7 +41,7 @@ group by 1
 having count(issued_id)>1
 
 
--- CTAS(create table as select)
+--2.CTAS(create table as select)
 -- Task 6: Create Summary Tables: Used CTAS to generate new tables based on query results - each book and total book_issued_cnt**
 Create table book_counts
 AS
